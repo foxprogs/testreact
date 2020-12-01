@@ -1,8 +1,8 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 
 function Button() {
   return /*#__PURE__*/React.createElement("div", null, "Hello World!");
 }
 
 export default Button;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9jb21wb25lbnRzL0J1dHRvbi9pbmRleC5qcyJdLCJuYW1lcyI6WyJSZWFjdCIsIkJ1dHRvbiJdLCJtYXBwaW5ncyI6IkFBQUEsT0FBT0EsS0FBUCxNQUFrQixPQUFsQjs7QUFFQSxTQUFTQyxNQUFULEdBQWlCO0FBQ2Isc0JBQU8sZ0RBQVA7QUFDSDs7QUFFRCxlQUFlQSxNQUFmIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JztcblxuZnVuY3Rpb24gQnV0dG9uKCl7XG4gICAgcmV0dXJuIDxkaXY+SGVsbG8gV29ybGQhPC9kaXY+XG59XG5cbmV4cG9ydCBkZWZhdWx0IEJ1dHRvbjsiXX0=
