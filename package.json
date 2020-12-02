@@ -20,7 +20,7 @@
   },
   "name": "bsa-rcl",
   "version": "0.1.1",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Vitek Foxprogs <foxprogs@gmail.com>",
   "license": "MIT"
 }
