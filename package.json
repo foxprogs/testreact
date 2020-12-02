@@ -19,7 +19,7 @@
     "webpack": "^5.9.0"
   },
   "name": "bsa-rcl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "author": "Vitek Foxprogs <foxprogs@gmail.com>",
   "license": "MIT"
